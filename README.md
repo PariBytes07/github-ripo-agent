@@ -51,10 +51,5 @@ gh_agent improve issue --number 42
 gh_agent improve pr --number 17
 ```
 
-## Notes on PR creation
-This tool creates a PR via GitHub API. Your branch must already exist on GitHub (pushed).
-Set `--head` and `--base` when approving PR creation if needed.
 
-## Reflection policy
-The agent produces an internal reflection artifact for gating actions.
-Your course reflection report must be written by you (no generative AI).
+
